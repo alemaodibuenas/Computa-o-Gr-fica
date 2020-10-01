@@ -1,4 +1,4 @@
-# Computa-o-Gr-fica
+# Computacao Grafica
 disciplina cg
 
 5.
